@@ -1,0 +1,3 @@
+# AdSense publishers must serve this file at the root of the domain.
+# Replace the pub id below with YOUR Google AdSense publisher id (appears in AdSense > Settings > Account information).
+google.com, pub-4440141071779397, DIRECT, f08c47fec0942fa0
